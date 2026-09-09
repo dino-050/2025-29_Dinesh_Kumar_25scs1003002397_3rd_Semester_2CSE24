@@ -141,6 +141,22 @@ A console-based game developed in C++ demonstrating programming fundamentals and
 | **Status** | Successfully Completed |
 
 ---
+### 🔗 Reference Links
+
+- Thiranex Technologies: https://thiranex.com/
+- Learn C++: https://www.learncpp.com/
+- C++ Reference Documentation: https://en.cppreference.com/
+- GNU GCC Compiler Documentation: https://gcc.gnu.org/onlinedocs/
+- GeeksforGeeks – C++ Programming: https://www.geeksforgeeks.org/c-plus-plus/
+- C++ STL Documentation: https://www.geeksforgeeks.org/the-c-standard-template-library-stl/
+- Microsoft C++ Documentation: https://learn.microsoft.com/en-us/cpp/
+- Visual Studio Code Documentation: https://code.visualstudio.com/docs
+
+> Certificate authenticity can be verified using the Certificate ID provided in the internship completion certificate issued by Thiranex Technologies.
+
+/*https://www.thiranex.in/?verifyId=THX-JUL3126-376*/
+
+---
 
 ## 📄 Report Structure
 
