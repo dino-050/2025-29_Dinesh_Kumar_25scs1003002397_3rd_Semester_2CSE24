@@ -129,6 +129,19 @@ A console-based game developed in C++ demonstrating programming fundamentals and
 
 ---
 
+## 🏆 Certification & Credentials
+
+| Field | Details |
+|---------|---------|
+| **Certificate Title** | Certificate of Achievement – C++ Programming Internship |
+| **Certificate ID** | `THX-JUL3126-376` |
+| **Internship Domain** | C++ Programming |
+| **Organization** | Thiranex Technologies |
+| **Duration** | 1 Month Internship Program |
+| **Status** | Successfully Completed |
+
+---
+
 ## 📄 Report Structure
 
 1. Candidate's Declaration
