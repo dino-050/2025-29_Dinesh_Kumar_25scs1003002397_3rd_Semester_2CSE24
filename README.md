@@ -50,14 +50,12 @@ By the end of the internship, I successfully completed four industry-oriented pr
 
 ---
 
-##📄 Report Structure
+## 📄 Report Structure
 
 Candidate's Declaration
 
 Acknowledgement
-
 Internship Completion Certificate
-
 Project Description
 
 4.1 Introduction
