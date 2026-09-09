@@ -19,16 +19,6 @@ This repository contains my internship report, presentation, and completion cred
 | GitHub | @dino-050 |
 
 
-## 📌 About the Internship
-
-This internship focused on developing a strong foundation in C++ Programming and problem-solving skills. The program covered core programming concepts, object-oriented programming principles, data structures, algorithms, and practical implementation of C++ applications.
-
-Throughout the internship, I worked on hands-on coding exercises and projects that enhanced my understanding of software development practices, logical thinking, and efficient programming techniques. The internship provided practical exposure to writing clean, maintainable, and optimized C++ code while strengthening my ability to solve real-world computational problems.
-
-**Organization:** Thiranex Technologies
-
-The internship emphasized industry-relevant programming skills and encouraged continuous learning through practical assignments, coding challenges, and project-based learning.
-
 
 ## 📌 About the Internship
 
