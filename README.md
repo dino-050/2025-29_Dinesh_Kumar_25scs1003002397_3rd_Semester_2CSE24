@@ -107,6 +107,28 @@ A console-based game developed in C++ demonstrating programming fundamentals and
 
 ---
 
+## 🗓️ Internship Curriculum
+
+| Phase | Module | Description |
+|---------|---------|-------------|
+| 1 | C++ Fundamentals | Introduction to C++, syntax, variables, data types, operators, loops, and conditional statements. |
+| 2 | Functions & Arrays | Working with functions, arrays, strings, and modular programming concepts. |
+| 3 | Object-Oriented Programming | Classes, objects, constructors, inheritance, polymorphism, encapsulation, and abstraction. |
+| 4 | File Handling & Data Management | Reading and writing files, persistent data storage, and record management techniques. |
+| 5 | Student Management System | Development of a menu-driven application for managing student records using file handling. |
+| 6 | Bank Management Application | Implementation of a banking system using OOP concepts and file management. |
+| 7 | Library Management System | Design and development of a library management application for handling books and member records. |
+| 8 | Mini Game Project | Development of a console-based Tic Tac Toe or Snake Game demonstrating programming logic and game mechanics. |
+| Final | Internship Assessment & Project Review | Evaluation of completed projects, programming concepts, and practical implementation skills. |   
+
+---
+
+## 🛠️ Technologies & Tools
+
+`C++` · `Object-Oriented Programming (OOP)` · `File Handling` · `Data Structures` · `Algorithms` · `STL (Standard Template Library)` · `Problem Solving` · `Console Application Development` · `Visual Studio Code` · `GCC Compiler`
+
+---
+
 ## 📄 Report Structure
 
 1. Candidate's Declaration
