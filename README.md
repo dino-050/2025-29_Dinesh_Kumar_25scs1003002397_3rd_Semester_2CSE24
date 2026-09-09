@@ -52,21 +52,34 @@ By the end of the internship, I successfully completed four industry-oriented pr
 
 ##📄 Report Structure
 
-
 Candidate's Declaration
+
 Acknowledgement
+
 Internship Completion Certificate
+
 Project Description
+
 4.1 Introduction
+
 4.2 Organization Profile
+
 4.3 Problem Statement
+
 4.4 Project Objectives
+
 4.5 Scope of the Project
+
 4.6 Technologies and Tools Used
+
 4.7 System Architecture
+
 4.8 Methodology
+
 4.9 Expected Outcomes
+
 4.10 Certificates of Completion and Communication Proof
+
 Bibliography/References
 
 ---
