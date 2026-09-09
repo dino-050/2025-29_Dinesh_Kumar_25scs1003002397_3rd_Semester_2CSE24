@@ -35,6 +35,63 @@ By the end of the internship, I successfully completed four industry-oriented pr
 
 ---
 
+## 🚀 Projects Completed During Internship
+
+### 1️⃣ Student Management System
+
+A console-based application developed in C++ to efficiently manage student records using file handling and menu-driven operations.
+
+**Key Features**
+- Add, update, delete, and display student records.
+- Persistent data storage using file handling.
+- User-friendly menu-driven interface.
+
+**Technologies Used:** C++, File Handling
+
+---
+
+### 2️⃣ Bank Management Application
+
+A C++ based banking system that simulates core banking operations using object-oriented programming concepts.
+
+**Key Features**
+- Deposit, withdrawal, and balance inquiry.
+- Customer record management.
+- Secure data storage using file handling.
+- OOP-based implementation.
+
+**Technologies Used:** C++, OOP, File Handling
+
+---
+
+### 3️⃣ Library Management System
+
+A console-based library management application designed to manage books, members, and borrowing records.
+
+**Key Features**
+- Book issue and return functionality.
+- Search books by title or author.
+- Member management system.
+- Structured and object-oriented design.
+
+**Technologies Used:** C++, OOP
+
+---
+
+### 4️⃣ Mini Game Project (Tic Tac Toe / Snake Game)
+
+A console-based game developed in C++ demonstrating programming fundamentals and game logic implementation.
+
+**Key Features**
+- Dynamic game board updates.
+- Win/Loss detection.
+- Replay functionality.
+- Implementation of loops, arrays, and conditional logic.
+
+**Technologies Used:** C++, Arrays, Loops, Conditional Statements
+
+---
+
 ## 🎯 Objectives
 
 - Develop a strong foundation in C++ programming and problem-solving techniques.
