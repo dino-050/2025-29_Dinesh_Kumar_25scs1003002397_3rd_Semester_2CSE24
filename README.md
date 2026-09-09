@@ -174,10 +174,6 @@ A console-based game developed in C++ demonstrating programming fundamentals and
 
 ---
 
-##🙏 Acknowledgement
-Thanks to the Thiranex Virtual Internship Program team, and to IILM University, Greater Noida for continuous support throughout the programme.
-
-Dinesh Kumar· B.Tech CSE · IILM University, Greater Noida
 
 ## 🙏 Acknowledgement
 
@@ -186,3 +182,5 @@ I would like to express my sincere gratitude to Thiranex Technologies for provid
 The internship helped me strengthen my programming fundamentals, improve my problem-solving abilities, and gain practical experience through the development of multiple real-world applications. I am also thankful to my mentors, instructors, and IILM University for their guidance and support throughout the internship.
 
 The knowledge and experience gained during this program will play a significant role in my future academic and professional growth as a software developer.
+
+# Dinesh Kumar· B.Tech CSE · IILM University, Greater Noida
