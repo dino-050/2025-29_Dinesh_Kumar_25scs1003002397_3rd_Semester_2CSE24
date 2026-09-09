@@ -18,7 +18,7 @@ This repository contains my internship report, presentation, and completion cred
 | Duration | 4 Weeks (July 2026 – August 2026) |
 | GitHub | @dino-050 |
 
-
+---
 
 ## 📌 About the Internship
 
@@ -31,3 +31,21 @@ The internship emphasized writing efficient, maintainable, and structured code w
 **Organization:** Thiranex Technologies
 
 By the end of the internship, I successfully completed four industry-oriented projects and enhanced my understanding of software development fundamentals using C++.
+
+
+---
+
+## 🎯 Objectives
+
+- Develop a strong foundation in C++ programming and problem-solving techniques.
+- Apply Object-Oriented Programming (OOP) concepts to build real-world applications.
+- Design and implement menu-driven console applications using C++.
+- Utilize file handling techniques for persistent data storage and management.
+- Build and manage student, banking, and library management systems.
+- Implement data structures and algorithms to improve application efficiency.
+- Develop interactive console-based games using programming fundamentals.
+- Practice debugging, testing, and optimizing C++ applications.
+- Strengthen logical thinking and software development skills through project-based learning.
+- Gain hands-on experience in developing structured and maintainable C++ applications.
+
+---
