@@ -109,34 +109,26 @@ A console-based game developed in C++ demonstrating programming fundamentals and
 
 ## 📄 Report Structure
 
-Candidate's Declaration
-
-Acknowledgement
-
-Internship Completion Certificate
-Project Description
-
-4.1 Introduction
-
-4.2 Organization Profile
-
-4.3 Problem Statement
-
-4.4 Project Objectives
-
-4.5 Scope of the Project
-
-4.6 Technologies and Tools Used
-
-4.7 System Architecture
-
-4.8 Methodology
-
-4.9 Expected Outcomes
-
-4.10 Certificates of Completion and Communication Proof
-
-Bibliography/References
+1. Candidate's Declaration
+2. Acknowledgement
+3. Internship Completion Certificate
+4. Project Description
+   - 4.1 Introduction
+   - 4.2 Organization Profile
+   - 4.3 Problem Statement
+   - 4.4 Project Objectives
+   - 4.5 Scope of the Project
+   - 4.6 Technologies and Tools Used
+   - 4.7 System Architecture
+   - 4.8 Methodology
+   - 4.9 Projects Developed
+      - Student Management System
+      - Bank Management Application
+      - Library Management System
+      - Mini Game Project (Tic Tac Toe / Snake Game)
+   - 4.10 Expected Outcomes
+   - 4.11 Internship Completion Certificate and Communication Proof
+5. Bibliography/References
 
 ---
 
