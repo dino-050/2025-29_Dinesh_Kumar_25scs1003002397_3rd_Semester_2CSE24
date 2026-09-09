@@ -55,6 +55,7 @@ By the end of the internship, I successfully completed four industry-oriented pr
 Candidate's Declaration
 
 Acknowledgement
+
 Internship Completion Certificate
 Project Description
 
