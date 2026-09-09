@@ -16,7 +16,7 @@ This repository contains my internship report, presentation, and completion cred
 | Programme | B.Tech CSE, 2nd Year (Section: 2CSE24) |
 | Internship Domain | C++ Programming |
 | Duration | 4 Weeks (July 2026 – August 2026) |
-| GitHub | @dino-050 |
+| GitHub | [@dino-050](https://github.com/dino-050) |
 
 ---
 
