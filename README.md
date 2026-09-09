@@ -28,3 +28,16 @@ Throughout the internship, I worked on hands-on coding exercises and projects th
 **Organization:** Thiranex Technologies
 
 The internship emphasized industry-relevant programming skills and encouraged continuous learning through practical assignments, coding challenges, and project-based learning.
+
+
+## 📌 About the Internship
+
+This internship focused on developing a strong foundation in C++ Programming, Object-Oriented Programming (OOP), Data Structures, File Handling, and Problem Solving. The program combined theoretical concepts with hands-on project development to strengthen programming and software development skills.
+
+Throughout the internship, I designed and implemented multiple console-based applications using C++. These projects helped me gain practical experience in object-oriented design, file management, menu-driven systems, and game development concepts.
+
+The internship emphasized writing efficient, maintainable, and structured code while solving real-world problems through project-based learning.
+
+**Organization:** Thiranex Technologies
+
+By the end of the internship, I successfully completed four industry-oriented projects and enhanced my understanding of software development fundamentals using C++.
