@@ -62,7 +62,7 @@ A C++ based banking system that simulates core banking operations using object-o
 - OOP-based implementation.
 
 **Technologies Used:** C++, OOP, File Handling
-
+### GITHUB REPO : https://github.com/dino-050/Bank-Management-Application
 ---
 
 ### 3️⃣ Library Management System
@@ -76,7 +76,7 @@ A console-based library management application designed to manage books, members
 - Structured and object-oriented design.
 
 **Technologies Used:** C++, OOP
-
+### GITHUB REPO : https://github.com/dino-050/Library-Management-System
 ---
 
 ### 4️⃣ Mini Game Project (Tic Tac Toe / Snake Game)
@@ -90,7 +90,7 @@ A console-based game developed in C++ demonstrating programming fundamentals and
 - Implementation of loops, arrays, and conditional logic.
 
 **Technologies Used:** C++, Arrays, Loops, Conditional Statements
-
+### GITHUB REPO : https://github.com/dino-050/Mini-Game-Project-Tic-Tac-Toe-Snake-Game-
 ---
 
 ## 🎯 Objectives
