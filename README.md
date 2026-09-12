@@ -47,6 +47,7 @@ A console-based application developed in C++ to efficiently manage student recor
 - User-friendly menu-driven interface.
 
 **Technologies Used:** C++, File Handling
+### GITHUB REPO : https://github.com/dino-050/Student-Management-System
 
 ---
 
